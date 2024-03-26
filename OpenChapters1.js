@@ -7,7 +7,7 @@ import Carousel from 'react-native-snap-carousel';
 import { AntDesign } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import storage from '@react-native-firebase/storage';
-import { Linking } from 'react-native';
+// import { DocumentViewer } from 'react-native-document-viewer'; // Install 'react-native-document-viewer' for PDF viewing
 
 const OpenChapters1= () => {
     [];
